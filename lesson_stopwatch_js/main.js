@@ -58,3 +58,6 @@ onClickStart.disabled = false;
 onClickStop.disabled = true;
 onClickReset.disabled = true;
 })
+
+
+
